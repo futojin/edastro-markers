@@ -1,7 +1,7 @@
 {
    "markers" : [
      {
-       "pin": "green"
+       "pin": "green",
        "text": "Outotz LS-K d8-3\nStarting point",
        "x": 526.31,
        "y": 238.47,
@@ -14,7 +14,7 @@
        "z": -1323.63
      },
      {
-       "pin": "asteroidbase"
+       "pin": "asteroidbase",
        "text": "NGC 7822 Sector BQ-Y d12\nAsteroid base",
        "x": -2454.19,
        "y": 299.06,
