@@ -1,3 +1,4 @@
+
 {
   "markers": [
     {
@@ -66,6 +67,24 @@
       "x": -2183.09375,
       "y": -78.40625,
       "z": 63935.625
+    },
+    {
+      "text": "Smootiae DH-A b6 (Knife's Edge)\nThese rings may be amongst the thinnest ever found to date",
+      "x": -200.78125,
+      "y": 5.15625,
+      "z": 51417.78125
+    },
+    {
+      "text": "Slaiyooe CB-X d1-5 (Walled Garden)\nThe outer rings are extremely wide. Approaching the planet from a distance gives the impression of the gas giant and moons being walled off from the rest of the universe by the massive outer rings.",
+      "x": -2567.90625,
+      "y": 232.3125,
+      "z": 57984.625
+    },
+    {
+      "text": "Oevasy SG-Y d0 (Semotus Beacon & Salomé's Reach)\n Semotus Beacon (also known as Ishum's Reach) - currently the most distant reachable star system from Sol.",
+      "x": -1502.15625,
+      "y": -2.625,
+      "z": 65630.15625
     },
     {
       "pin": "green",
