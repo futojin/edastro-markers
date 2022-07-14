@@ -32,8 +32,8 @@
          "z": 36872.46875
       },
       {
-         "text": "Plaa Scraa EA-A e114\nAikhtiar Almughamara\nThe four candidates for FSD boost are in very close proximity. Three Neutron Stars and a White Dwarf.",
-         "x": -1981.03125,   /  / 
+         "text": "Plaa Scraa EA-A e114\nAikhtiar Almughamara\nThree Neutron Stars and a White Dwarf.",
+         "x": -1981.03125,
          "y": 1310.40625,  
          "z": 37373.8125
       },
@@ -42,13 +42,7 @@
          "x": -496.0625,
          "y": -756.6875,
          "z": 34360.4375
-     },
-     {
-         "text": "Phroi Bluae IR-W f1-1530\nNewton's Necropolis\nPlanet 1 A is a metal-rich body, with a whopping 10.66g",
-         "x": -496.0625,
-         "y": -756.6875,
-         "z": 34360.4375
-      },
+     }
       
    ]
 }
