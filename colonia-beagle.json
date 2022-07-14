@@ -1,72 +1,71 @@
 {
-   "markers" : [
-      {
-        "pin": "green",
-        "text": "Colonia\nStarting point",
-        "x": -9530.5,
-        "y": -910.28,
-        "z": 19808.13
-      },
-      {
-         "text": "Stuemeae FG-Y d7561\nExplorer's Anchorage",
-         "x": 28.6875,
-         "y": -19.78125,
-         "z": 25899.6875
-      },
-      {
-         "text": "Bleethuae MI-B d402\nFlyby\nPlanet AB 3 A is a moon of a brown dwarf with large rings that pass within 300 km of the surface.",
-         "x": -62.71875,
-         "y": -690.59375,
-         "z": 37402.53125
-      },
-      {
-         "text": "Prooe Flyi QH-X b7-65\nFerrous Fields\nPlanet A is a 100% metal body orbiting the M-class star at a mere 1.80 light-seconds.",
-         "x":  470.0625,
-         "y": -98.84375,
-         "z": 38787.125
-      },
-      {
-         "text": "Vegnoae QO-I d9-2277\nCannon Challenge",
-         "x": -1008.03125,
-         "y": 106.65625,
-         "z": 36872.46875
-      },
-      {
-         "text": "Plaa Scraa EA-A e114\nAikhtiar Almughamara\nThree Neutron Stars and a White Dwarf.",
-         "x": -1981.03125,
-         "y": 1310.40625,  
-         "z": 37373.8125
-      },
-      {
-         "text": "Phroi Bluae IR-W f1-1530\nNewton's Necropolis\nPlanet 1 A is a metal-rich body, with a whopping 10.66g",
-         "x": -496.0625,
-         "y": -756.6875,
-         "z": 34360.4375
-     },
-      {
-         "text": "Prae Pruae TL-B d14-14\nEye of Boreas\nPlanet 8's rings are so massive.",
-         "x": -3460.4375,
-         "y": -427.21875,
-         "z": 42441.65625
-      },
-   {
+  "markers": [
+    {
+      "pin": "green",
+      "text": "Colonia\nStarting point",
+      "x": -9530.5,
+      "y": -910.28,
+      "z": 19808.13
+    },
+    {
+      "text": "Stuemeae FG-Y d7561\nExplorer's Anchorage",
+      "x": 28.6875,
+      "y": -19.78125,
+      "z": 25899.6875
+    },
+    {
+      "text": "Bleethuae MI-B d402\nFlyby\nPlanet AB 3 A is a moon of a brown dwarf with large rings that pass within 300 km of the surface.",
+      "x": -62.71875,
+      "y": -690.59375,
+      "z": 37402.53125
+    },
+    {
+      "text": "Prooe Flyi QH-X b7-65\nFerrous Fields\nPlanet A is a 100% metal body orbiting the M-class star at a mere 1.80 light-seconds.",
+      "x": 470.0625,
+      "y": -98.84375,
+      "z": 38787.125
+    },
+    {
+      "text": "Vegnoae QO-I d9-2277\nCannon Challenge",
+      "x": -1008.03125,
+      "y": 106.65625,
+      "z": 36872.46875
+    },
+    {
+      "text": "Plaa Scraa EA-A e114\nAikhtiar Almughamara\nThree Neutron Stars and a White Dwarf.",
+      "x": -1981.03125,
+      "y": 1310.40625,
+      "z": 37373.8125
+    },
+    {
+      "text": "Phroi Bluae IR-W f1-1530\nNewton's Necropolis\nPlanet 1 A is a metal-rich body, with a whopping 10.66g",
+      "x": -496.0625,
+      "y": -756.6875,
+      "z": 34360.4375
+    },
+    {
+      "text": "Prae Pruae TL-B d14-14\nEye of Boreas\nPlanet 8's rings are so massive.",
+      "x": -3460.4375,
+      "y": -427.21875,
+      "z": 42441.65625
+    },
+    {
       "text": "Fachiae OM-F c26-0 (Fractures of Fachiae)\nAbundance of water geysers, canyons deeper than 10km",
       "x": -927.03125,
       "y": -684.3125,
       "z": 46172.4375
-  },
-   {
+    },
+    {
       "text": "Oopailn NP-R c7-3 (Oopailn Mists)\nGeosite #6 is advised as it offers a view of the Gas Giant from inside the canyon",
       "x": -2008.375,
       "y": -73.53125,
       "z": 46619.96875
-  },
-   {
+    },
+    {
       "text": "Streau Eop ZP-N c23-0 (Calidum Capsicum Annuum (Hot Potato))\nAround the primary star there orbits a curiously misshapen orange-red potato-like world",
-      "x": -3460.4375,  /  / 
+      "x": -3460.4375,
       "y": -427.21875,
       "z": 42441.65625
-  }
-      
-   ]
+    }
+  ]
 }
