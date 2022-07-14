@@ -26,7 +26,7 @@
          "z": 38787.125
       },
       {
-         "text": "Vegnoae QO-I d9-2277\nTCannon Challenge",
+         "text": "Vegnoae QO-I d9-2277\nCannon Challenge",
          "x": -1008.03125,
          "y": 106.65625,
          "z": 36872.46875
@@ -42,6 +42,30 @@
          "x": -496.0625,
          "y": -756.6875,
          "z": 34360.4375
+     },
+      {
+         "text": "Prae Pruae TL-B d14-14\nEye of Boreas\nPlanet 8's rings are so massive.",
+         "x": -3460.4375,
+         "y": -427.21875,
+         "z": 42441.65625
+     },
+      {
+         "text": "Fachiae OM-F c26-0 (Fractures of Fachiae)\nAbundance of water geysers, canyons deeper than 10km",
+         "x": -927.03125,
+         "y": -684.3125,
+         "z": 46172.4375
+     },
+      {
+         "text": "Oopailn NP-R c7-3 (Oopailn Mists)\nGeosite #6 is advised as it offers a view of the Gas Giant from inside the canyon",
+         "x": -2008.375,
+         "y": -73.53125,
+         "z": 46619.96875
+     },
+      {
+         "text": "Streau Eop ZP-N c23-0 (Calidum Capsicum Annuum (Hot Potato))\nAround the primary star there orbits a curiously misshapen orange-red potato-like world",
+         "x": -3460.4375,  /  / 
+         "y": -427.21875,
+         "z": 42441.65625
      }
       
    ]
