@@ -36,10 +36,7 @@
 * Unlock: 200 units of Progenitor Cells
 ## Acquire Enough Credits (500M)
 
-### Build DBX
-#### --Test--
-#### See [Dragon Fly](https://edsy.org/#/L=Gi0HOfo0H4C0S00,,mpUCzYIm5G_W0DCYHm5L_W0,9p3Hm5I_W0A3wHm7J_W0AN8Gm5I_W0AdsGm5J_W0AqqGm3G_W0B4SHm5K_W0BK4Gm3G_W0Bcg1m,,3302m4_w1m7PdGm3N_W005U1m0IwQm3G_W01IM4m0nG2m2jwGm9G_W0,Dragon_0Fly,UCL_D03)
-#### 3A Prismatic Shield
+## Acquire Prismatic Shields
 * Pldege to Aisling Duval. [How To](https://www.youtube.com/watch?v=pn8X1L3R3NI)
   * Pledge under Galactic Power
   * Wait for 3 weeks. Galactic Power -> Rating -> Stats. Time pledged must be at least 4 weeks, 1 day
@@ -56,19 +53,25 @@
   * Starport Services -> Power Contact -> Deliver Programme Materials
   * Repeat
   * When done: Galactic Power -> Rating -> Merits Earned -> 750
-* Confirm you have level 3 access
   * Wait until next System tick: Next Thursday
-  * Purchase in the [known locations](https://elite-dangerous.fandom.com/wiki/Prismatic_Shield_Generator#Purchase_Locations)  
+* Purchase Prismatic Shields (Need approx 20M CR)
+  * Purchase in the [Rodrigues Dock](https://elite-dangerous.fandom.com/wiki/Prismatic_Shield_Generator#Purchase_Locations) (36 Persei) with 15% disc
+  * [ ] 3 3A Prismatic Shields 761,868 CR/EA/B4 DISC
+  * [ ] 2 4A Prismatic Shields 2,415,120 CR/EA/B4 DISC
+  * [ ] 2 5A Prismatic Shields 7,655,930 CE/EA/B4 DISC
+### Build DBX
+#### See [Dragon Fly](https://edsy.org/#/L=Gi0HOfo0H4C0S00,,mpUCzYIm5G_W0DCYHm5L_W0,9p3Hm5I_W0A3wHm7J_W0AN8Gm5I_W0AdsGm5J_W0AqqGm3G_W0B4SHm5K_W0BK4Gm3G_W0Bcg1m,,3302m4_w1m7PdGm3N_W005U1m0IwQm3G_W01IM4m0nG2m2jwGm9G_W0,Dragon_0Fly,UCL_D03)
+#### 3A Prismatic Shield
 * Elvira Martuuk
- * G3 Enhanced Low Power -  
- * [ ] Stripped Down
+  * [ ] G3 Enhanced Low Power -  
+  * [ ] Stripped Down
 #### [4H Guardian FSD Booster](https://elite-dangerous.fandom.com/wiki/Guardian_Frame_Shift_Drive_Booster)
 * Collect on the [Guardian Modules](https://cmdrs-toolbox.com/guides/guardian-modules) at Synuefe NL-N C23-4 [Map](https://images.squarespace-cdn.com/content/v1/5dadea5a93a75725cf178ef7/1611615858568-O9NOUCGQ2U2HQSI1TM5J/Synuefe+NL-N+C23-4_Map.png)
- * 1 Guardian Module Blueprint Fragment (G4 Encoded)
- * 21 Guardian Power Cell (G1 Manufactured)
- * 21 Guardian Technology Component (G2 Manufactured)
- * 24 Focus Crystals (G3 Manufactured)
- * 8 HN Shock Mount (Commodity)
+  * [ ] 1 Guardian Module Blueprint Fragment (G4 Encoded)
+  * [ ] 21 Guardian Power Cell (G1 Manufactured)
+  * [ ] 21 Guardian Technology Component (G2 Manufactured)
+  * [ ] 24 Focus Crystals (G3 Manufactured)
+  * [ ] 8 HN Shock Mount (Commodity)
 
 #### Detailed Surface Scanner V1
 *  24 Niobium (G3 Raw)
