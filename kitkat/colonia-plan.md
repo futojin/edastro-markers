@@ -1,6 +1,23 @@
 # Kitkat going to Colonia
 
-## Stash HGs
+## Stash HGs (Max out G5 & G4)
+### Maxing G4 (150) Need 22 of G5 Mats 
+### [G4 Raw](https://www.youtube.com/watch?v=u8SgJz_Qydg)
+* Outotz LS-K d8-3
+  * Outotz LS-K d8-3 - B 7 b - Ruthenium
+  * Outotz LS-K d8-3 - B 5 a - Yttrium
+  * Outotz LS-K d8-3 - B 5 c - Antimony
+* HIP 36601
+  * HIP 36601 - C 1 a - Polonium
+  * HIP 36601 - C 1 d - Ruthenium
+  * HIP 36601 - C 3 b - Tellurium
+  * HIP 36601 - C 5 a - Technetium
+* Selenium
+### G5 Manufactured
+### G5 Encoded
+## Stash Mat required for journey
+### Fuel
+### AFMU
 
 ## Engineering Permits
 ### [Etienne Dorn](https://inara.cz/elite/engineer/23/)
@@ -65,7 +82,7 @@
   * [ ] 8 HN Shock Mount (Commodity)
 
 #### Detailed Surface Scanner V1
-*  24 Niobium (G3 Raw)
-*  28 Mechanical Component (G3 Manufactured)
-*  22 Germanium (G2 Raw)
-*  26 Mechanical Scrap (G1 Manufactured)
+*  [ ] 24 Niobium (G3 Raw)
+*  [ ] 28 Mechanical Component (G3 Manufactured)
+*  [ ] 22 Germanium (G2 Raw)
+*  [ ] 26 Mechanical Scrap (G1 Manufactured)
