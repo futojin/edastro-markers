@@ -10,6 +10,7 @@
   * Unlock: 200 units of Landmines
 * Req: trade rank Dealer
 * Unlock: 25 units of Occupied Escape Pods
+
 ### [Marsha Hicks](https://inara.cz/elite/engineer/21/)
 * Invite: [The Dweller](https://inara.cz/elite/engineer/4)
   * Invite: Public
@@ -17,6 +18,7 @@
   * Unlock:  500,000 credits
 * Req:  exploration rank Surveyor
 * Unlock: 10 units of Osmium
+
 ### [Mel Brandon](https://inara.cz/elite/engineer/22/)
 * Invite: [Elvira Martuuk](https://inara.cz/elite/engineer/2)
   * Invite: Public
@@ -24,6 +26,7 @@
   * Unlock:  3 units of Soontill Relics
 * Req: invitation from Colonia Council
 * Unlock: give 100,000 credits of bounty vouchers
+
 ### [Petra Olmanova](https://inara.cz/elite/engineer/24/)
 * Invite: [Tod "The Blaster" McQuinn](https://inara.cz/elite/engineer/6)
   * Invite: Public
@@ -31,4 +34,26 @@
   * Unlock:  give 100,000 credits of bounty vouchers
 * Req: combat rank Expert  
 * Unlock: 200 units of Progenitor Cells
-## Acquire Enough Credit
+## Acquire Enough Credits (500M)
+
+### Build DBX
+#### See [Dragon Fly](https://edsy.org/#/L=Gi0HOfo0H4C0S00,,mpUCzYIm5G_W0DCYHm5L_W0,9p3Hm5I_W0A3wHm7J_W0AN8Gm5I_W0AdsGm5J_W0AqqGm3G_W0B4SHm5K_W0BK4Gm3G_W0Bcg1m,,3302m4_w1m7PdGm3N_W005U1m0IwQm3G_W01IM4m0nG2m2jwGm9G_W0,Dragon_0Fly,UCL_D03)
+#### 3A Prismatic Shield
+* [ ] G3 Enhanced Low Power -  Elvira Martuuk
+* [ ] Stripped Down
+#### [4H Guardian FSD Booster](https://elite-dangerous.fandom.com/wiki/Guardian_Frame_Shift_Drive_Booster)
+* Collect on the [Guardian Modules](https://cmdrs-toolbox.com/guides/guardian-modules) Synuefe NL-N C23-4[Map](https://images.squarespace-cdn.com/content/v1/5dadea5a93a75725cf178ef7/1611615858568-O9NOUCGQ2U2HQSI1TM5J/Synuefe+NL-N+C23-4_Map.png)
+ * [ ] 1 Guardian Module Blueprint Fragment (G4 Encoded)
+ * [ ] 21 Guardian Power Cell (G1 Manufactured)
+ * [ ] 21 Guardian Technology Component (G2 Manufactured)
+ * [ ] 24 Focus Crystals (G3 Manufactured)
+ * [ ] 8 HN Shock Mount (Commodity)
+
+#### Detailed Surface Scanner V1
+*  [ ] 24 Niobium (G3 Raw)
+*  [ ] 28 Mechanical Component (G3 Manufactured)
+*  [ ] 22 Germanium (G2 Raw)
+*  [ ] 26 Mechanical Scrap (G1 Manufactured)
+
+
+
