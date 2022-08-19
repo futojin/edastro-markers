@@ -1,8 +1,8 @@
 # Kitkat going to Colonia
 
-## Stash HGs (Max out G5 & G4)
-### Maxing G4 (150) Need 22 of G5 Mats 
-### [G4 Raw](https://www.youtube.com/watch?v=u8SgJz_Qydg)
+## [Stash HGs](https://cmdrs-toolbox.com/material-finder) (Max out G5 & G4)
+### Maxing G5 & G4
+### [Raw](https://www.youtube.com/watch?v=u8SgJz_Qydg)
 * Outotz LS-K d8-3
   * Outotz LS-K d8-3 - B 7 b - Ruthenium
   * Outotz LS-K d8-3 - B 5 a - Yttrium
@@ -13,11 +13,29 @@
   * HIP 36601 - C 3 b - Tellurium
   * HIP 36601 - C 5 a - Technetium
 * Selenium
-### G5 Manufactured
-### G5 Encoded
-## Stash Mat required for journey
+### Manufactured
+* Robigo
+  * Biotech conductor	G5	+++
+  * Exquisite Focus Crystal	G5	+++
+  * Refined Focus Crystal	G4	+++
+  * Thermic Alloys	G4	++
+  * Conductive Polymers	G4	++
+  * Mechanical Components	G3	+
+### Encoded
+* Robigo
+  * Modified Embedded Firmware	G5	+++
+  * Divergent Scan Data	G4	++
+  * Security Firmware Patch	G4	++
+  * Strange Wake Solution	G3	+
+* Jameson Crash Site
+  * Adapative Encryptors Capture	G5 
+  * Atypical Encryption Archives	G4
+
+## Stash specific mats required for journey
 ### Fuel
 ### AFMU
+### SRV Fuel
+### SRV Repair
 
 ## Engineering Permits
 ### [Etienne Dorn](https://inara.cz/elite/engineer/23/)
