@@ -30,6 +30,8 @@
 * Jameson Crash Site
   * Adapative Encryptors Capture	G5 
   * Atypical Encryption Archives	G4
+* Famine - Distribution Centre - Scanning high wake
+  * Datamined Wake Exceptions G5  
 
 ## Stash specific mats required for journey
 ### Fuel
