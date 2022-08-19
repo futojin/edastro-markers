@@ -67,13 +67,13 @@
   * [ ] 3 3A Prismatic Shields 761,868 CR/EA/B4 DISC
   * [ ] 2 4A Prismatic Shields 2,415,120 CR/EA/B4 DISC
   * [ ] 2 5A Prismatic Shields 7,655,930 CE/EA/B4 DISC
-### Build DBX
-#### See [Dragon Fly](https://edsy.org/#/L=Gi0HOfo0H4C0S00,,mpUCzY2mDBw10,9p31mA7210AN80mAdsG05G0060upD6upD8qpDE_PcGzcQKsPcAqq0mB4S1mBK40mBcg1m,,3302m4_w1m7Pc0005U1m0IwAm1IM4m0nG2m2jwG09G001P000,Dragon_0Fly,UCL_D03)
-#### 3A Prismatic Shield
+## Build DBX
+### See [Dragon Fly](https://edsy.org/#/L=Gi0HOfo0H4C0S00,,mpUCzY2mDBw10,9p31mA7210AN80mAdsG05G0060upD6upD8qpDE_PcGzcQKsPcAqq0mB4S1mBK40mBcg1m,,3302m4_w1m7Pc0005U1m0IwAm1IM4m0nG2m2jwG09G001P000,Dragon_0Fly,UCL_D03)
+### 3A Prismatic Shield
 * Elvira Martuuk
   * [ ] G3 Enhanced Low Power -  
   * [ ] Stripped Down
-#### [4H Guardian FSD Booster](https://elite-dangerous.fandom.com/wiki/Guardian_Frame_Shift_Drive_Booster)
+### [4H Guardian FSD Booster](https://elite-dangerous.fandom.com/wiki/Guardian_Frame_Shift_Drive_Booster)
 * Collect on the [Guardian Modules](https://cmdrs-toolbox.com/guides/guardian-modules) at Synuefe NL-N C23-4 [Map](https://images.squarespace-cdn.com/content/v1/5dadea5a93a75725cf178ef7/1611615858568-O9NOUCGQ2U2HQSI1TM5J/Synuefe+NL-N+C23-4_Map.png)
   * [ ] 1 Guardian Module Blueprint Fragment (G4 Encoded)
   * [ ] 21 Guardian Power Cell (G1 Manufactured)
@@ -81,7 +81,7 @@
   * [ ] 24 Focus Crystals (G3 Manufactured)
   * [ ] 8 HN Shock Mount (Commodity)
 
-#### Detailed Surface Scanner V1
+### Detailed Surface Scanner V1
 *  [ ] 24 Niobium (G3 Raw)
 *  [ ] 28 Mechanical Component (G3 Manufactured)
 *  [ ] 22 Germanium (G2 Raw)
