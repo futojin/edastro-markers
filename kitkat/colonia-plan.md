@@ -12,7 +12,8 @@
   * HIP 36601 - C 1 d - Ruthenium
   * HIP 36601 - C 3 b - Tellurium
   * HIP 36601 - C 5 a - Technetium
-* Selenium
+* [Selenium](https://edtools.cc/selenium?s=sol)
+  *  
 ### Manufactured
 * Robigo
   * Biotech conductor	G5	+++
@@ -95,14 +96,5 @@
   * [ ] Stripped Down
 ### [4H Guardian FSD Booster](https://elite-dangerous.fandom.com/wiki/Guardian_Frame_Shift_Drive_Booster)
 * Collect on the [Guardian Modules](https://cmdrs-toolbox.com/guides/guardian-modules) at Synuefe NL-N C23-4 [Map](https://images.squarespace-cdn.com/content/v1/5dadea5a93a75725cf178ef7/1611615858568-O9NOUCGQ2U2HQSI1TM5J/Synuefe+NL-N+C23-4_Map.png)
-  * [ ] 1 Guardian Module Blueprint Fragment (G4 Encoded)
-  * [ ] 21 Guardian Power Cell (G1 Manufactured)
-  * [ ] 21 Guardian Technology Component (G2 Manufactured)
-  * [ ] 24 Focus Crystals (G3 Manufactured)
-  * [ ] 8 HN Shock Mount (Commodity)
 
 ### Detailed Surface Scanner V1
-*  [ ] 24 Niobium (G3 Raw)
-*  [ ] 28 Mechanical Component (G3 Manufactured)
-*  [ ] 22 Germanium (G2 Raw)
-*  [ ] 26 Mechanical Scrap (G1 Manufactured)
