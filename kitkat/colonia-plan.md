@@ -2,18 +2,18 @@
 
 ## [Stash HGs](https://cmdrs-toolbox.com/material-finder) (Max out G5 & G4)
 ### Maxing G5 & G4
-### [Raw](https://www.youtube.com/watch?v=u8SgJz_Qydg)
+### [Raw](https://www.reddit.com/r/EliteDangerous/comments/ms5y5v/raw_materials_farm_grind_done_finally/)
 * Outotz LS-K d8-3
-  * Outotz LS-K d8-3 - B 7 b - Ruthenium
-  * Outotz LS-K d8-3 - B 5 a - Yttrium
-  * Outotz LS-K d8-3 - B 5 c - Antimony
+  * Outotz LS-K d8-3 - B 5 a (Site 15)- Yttrium
+  * Outotz LS-K d8-3 - B 5 c (Site 3) - Antimony
 * HIP 36601
-  * HIP 36601 - C 1 a - Polonium
-  * HIP 36601 - C 1 d - Ruthenium
-  * HIP 36601 - C 3 b - Tellurium
-  * HIP 36601 - C 5 a - Technetium
-* [Selenium](https://edtools.cc/selenium?s=sol)
-  *  
+  * HIP 36601 - C 1 a (Site 5) - Polonium
+  * HIP 36601 - C 1 d (Site 3) - Ruthenium
+  * HIP 36601 - C 3 b (Site 5) - Tellurium
+  * HIP 36601 - C 5 a (Site 6) - Technetium
+* Selenium
+  *  HIP 83204 - 3 b a - (Site 1,2,7,8,10,14)
+  *  [Others](https://edtools.cc/selenium?s=sol) - Sort by Selenium shares
 ### Manufactured
 * Robigo
   * Biotech conductor	G5	+++
