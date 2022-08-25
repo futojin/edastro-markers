@@ -1,6 +1,6 @@
 # Kitkat going to Colonia
 
-## [Stash HGs](https://cmdrs-toolbox.com/material-finder) (Max out G5 & G4)
+## [Stash HGs](https://cmdrs-toolbox.com/material-finder)
 ### [Raw](https://www.reddit.com/r/EliteDangerous/comments/ms5y5v/raw_materials_farm_grind_done_finally/)
 * Outotz LS-K d8-3
   * Outotz LS-K d8-3 - B 5 a (Site 15)- Yttrium
@@ -32,12 +32,6 @@
   * Atypical Encryption Archives	G4
 * Famine - Distribution Centre - Scanning high wake
   * Datamined Wake Exceptions G5  
-
-## Stash specific mats required for journey
-### Fuel
-### AFMU
-### SRV Fuel
-### SRV Repair
 
 ## Engineering Permits
 ### [Etienne Dorn](https://inara.cz/elite/engineer/23/)
