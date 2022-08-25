@@ -1,7 +1,6 @@
 # Kitkat going to Colonia
 
 ## [Stash HGs](https://cmdrs-toolbox.com/material-finder) (Max out G5 & G4)
-### Maxing G5 & G4
 ### [Raw](https://www.reddit.com/r/EliteDangerous/comments/ms5y5v/raw_materials_farm_grind_done_finally/)
 * Outotz LS-K d8-3
   * Outotz LS-K d8-3 - B 5 a (Site 15)- Yttrium
